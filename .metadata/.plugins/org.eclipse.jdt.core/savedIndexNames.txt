@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+D:\practice programs\mock\.metadata\.plugins\org.eclipse.jdt.core
+2240043422.index
+3612540257.index
+4109700294.index
+1233155433.index
+2361772636.index
+3970818815.index
+1865797976.index
+1253315481.index
+4273352869.index
